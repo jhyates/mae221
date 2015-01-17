@@ -1,7 +1,7 @@
 # mae221
-Python with Pithy for Princeton University's MAE 221 Thermodynamics
+*Python with Pithy for Princeton University's MAE 221 Thermodynamics*
 
-January 2015
+**January 2015**
 
 This repo includes two Python scripts I used for the class's final power plant design analysis project.
 
